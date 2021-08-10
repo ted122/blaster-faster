@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "1c08f0b4-dc5f-4a74-b4cc-7f8894cc458a",
+            "Value": {
+                "id": "759ff42d-bbb8-49ad-a9a2-843034563897",
+                "resourcePath": "sprites\\s_ship\\s_ship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "26044976-3f90-4e1d-9613-cce7a574b66f",
             "Value": {
                 "id": "b2ed4cfc-fa13-47fe-9d54-2e6e36c861fa",
                 "resourcePath": "views\\26044976-3f90-4e1d-9613-cce7a574b66f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3c56d5de-8873-4b8d-8956-59752bac8569",
+            "Value": {
+                "id": "0d8760b1-984d-4172-8022-370ea1c0f7d4",
+                "resourcePath": "sounds\\sound1\\sound1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -111,6 +127,22 @@
             }
         },
         {
+            "Key": "7a56c1e6-3499-479f-a7b1-83e83b263486",
+            "Value": {
+                "id": "041795c2-90b8-44fa-9a0e-bbda7758d5ee",
+                "resourcePath": "sounds\\sound2\\sound2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "7ce5233c-3f5b-4d4c-a14b-cec7bb74c7a6",
+            "Value": {
+                "id": "de86fe71-d207-4e85-b202-098e709117f9",
+                "resourcePath": "sounds\\sound0\\sound0.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "e915e57c-8806-4f59-a152-70df172eac41",
@@ -124,6 +156,14 @@
                 "id": "f7c1be2d-2c01-46de-98e0-140d8d1f0273",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "8f2eb2b4-f379-4ce0-9172-0bd58908dd1a",
+            "Value": {
+                "id": "5627aeaf-4b46-49ff-8b28-11f51aaeb571",
+                "resourcePath": "views\\8f2eb2b4-f379-4ce0-9172-0bd58908dd1a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
