@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "aaa33a55-dc2a-4cc8-b4d9-efa48c561bab"
+        },
+        {
+            "id": "966ac4a0-9c91-48b7-838d-f907f2749cf8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "aaa33a55-dc2a-4cc8-b4d9-efa48c561bab"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -45,6 +55,34 @@
             "value": "4",
             "varName": "max_speed",
             "varType": 1
+        },
+        {
+            "id": "3de32c4b-88a3-439c-b8db-a957ea3538f5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.2",
+            "varName": "speed_up",
+            "varType": 0
+        },
+        {
+            "id": "d2b3ca49-df09-4e37-a8fa-c6dd6c46fd00",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.05",
+            "varName": "friction_amount",
+            "varType": 0
         }
     ],
     "solid": false,
