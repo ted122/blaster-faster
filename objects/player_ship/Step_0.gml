@@ -4,7 +4,7 @@ image_angle = mouse_direction;
 
 var _thrust = mouse_check_button(mb_right);
 image_index = _thrust;
- 
+// sprite changes when you press the right mouse button
 if (_thrust)  {
     motion_add(image_angle, speed_up);
 	if (speed >max_speed) {
@@ -13,4 +13,4 @@ if (_thrust)  {
 } else {
     friction = friction_amount;
 }
-
+// creates friction with the ship controls 

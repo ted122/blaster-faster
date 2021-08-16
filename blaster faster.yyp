@@ -314,7 +314,7 @@
             "Key": "aaa33a55-dc2a-4cc8-b4d9-efa48c561bab",
             "Value": {
                 "id": "71d0eeae-2982-40f2-8fbe-9cca878fa25a",
-                "resourcePath": "objects\\player\\player.yy",
+                "resourcePath": "objects\\player_ship\\player_ship.yy",
                 "resourceType": "GMObject"
             }
         },
