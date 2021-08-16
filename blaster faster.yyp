@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "77d1a3fd-d392-49e0-92b3-f05615217ed5",
+            "Value": {
+                "id": "9fb87586-88c2-4dde-a1cc-512e7123893b",
+                "resourcePath": "objects\\player_power_up\\player_power_up.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7a2d9c1f-7c0f-43d8-8c8c-b33008a0e0b0",
             "Value": {
                 "id": "42283c4e-70e0-446a-a4e6-d36ad078356c",
