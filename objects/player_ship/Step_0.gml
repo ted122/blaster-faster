@@ -1,3 +1,4 @@
+/// @description player controlls and player max speed
 // setting the sprite to face the mouse 
 var mouse_direction = point_direction(x, y, mouse_x, mouse_y);
 image_angle = mouse_direction;
