@@ -11,6 +11,7 @@ if (_thrust)  {
 	if (speed >max_speed) {
 	    speed = max_speed;	
 	}
+	instance_create_layer(x, y, "Effects", explosion_obj);
 } else {
     friction = friction_amount;
 }

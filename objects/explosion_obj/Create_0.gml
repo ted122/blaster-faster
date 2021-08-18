@@ -1,1 +1,2 @@
-/// @decription create-explosion_obj
+image_xscale = scale;
+image_yscale = scale;
