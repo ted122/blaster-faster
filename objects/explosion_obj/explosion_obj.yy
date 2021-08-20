@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "6876ee82-e201-4cde-9476-09f014134f66"
+        },
+        {
+            "id": "b958aa36-46c2-4ac6-ad3f-1db0696e63ab",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "6876ee82-e201-4cde-9476-09f014134f66"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -52,7 +62,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "irandom_range(0.075, 0.15);",
+            "value": "random_range(0.075, 0.15);",
             "varName": "fade_speed",
             "varType": 4
         },
@@ -66,7 +76,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "irandom_range(0.25,1);",
+            "value": "random_range(0.25,1);",
             "varName": "scale",
             "varType": 4
         }
