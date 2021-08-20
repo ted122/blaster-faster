@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "59892254-2153-4e32-84e4-ed983deba8bf",
+            "Value": {
+                "id": "5f1121c1-d875-43c3-aba8-7f3f5c9fcac0",
+                "resourcePath": "objects\\laser_obj\\laser_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "63e74122-fad8-4bd7-96dd-139a6ef5630d",
             "Value": {
                 "id": "5d291616-fc35-47a9-8fe2-87f7cda6e385",
@@ -284,6 +292,14 @@
                 "id": "44a0ab5c-5e5c-49a9-b1a4-373694212229",
                 "resourcePath": "views\\903f33f3-c3b4-4ffd-a7a4-b8d0415fae2f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93553394-b898-4295-ad8d-278e28de8a75",
+            "Value": {
+                "id": "085355b2-47fb-4c4c-8215-51aa5c71febb",
+                "resourcePath": "scripts\\create_laser\\create_laser.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -431,6 +447,14 @@
             }
         },
         {
+            "Key": "f00be22a-a331-4bcb-ae0e-23c470840a9b",
+            "Value": {
+                "id": "26215f65-1e33-4f62-83ea-3918e1d996a5",
+                "resourcePath": "scripts\\bounce_off_screen_edge\\bounce_off_screen_edge.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "ade39b70-b8cd-4a45-a049-34fcd1e53f40",
@@ -448,7 +472,8 @@
         }
     ],
     "script_order": [
-        
+        "f00be22a-a331-4bcb-ae0e-23c470840a9b",
+        "93553394-b898-4295-ad8d-278e28de8a75"
     ],
     "tutorial": ""
 }

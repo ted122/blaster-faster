@@ -21,3 +21,7 @@ if (_thrust)  {
     friction = friction_amount;
 }
 // creates friction with the ship controls 
+var _fire_laser = mouse_check_button_pressed(mb_left);
+if (_fire_laser) {
+	create_laser();
+}
