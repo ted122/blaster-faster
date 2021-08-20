@@ -3,3 +3,4 @@ if (image_alpha > 0 ) {
 } else {
 	instance_destroy();
 }
+// when the right mouse button is pressed the image_obj explosion should be shown
