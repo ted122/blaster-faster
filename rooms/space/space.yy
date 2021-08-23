@@ -39,7 +39,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "player_world",
+            "name": "Instances",
             "id": "3c6bfff0-e7a7-4be6-86ce-f690a8ef6926",
             "depth": 100,
             "grid_x": 32,
